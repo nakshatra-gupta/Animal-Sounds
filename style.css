@@ -1,0 +1,16 @@
+body
+{
+    background-color: darkcyan;
+    color: darkorange; 
+}
+.copy_right_footer
+{
+    color:gold;
+    background-color:darkturquoise;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    font-size: 20px;
+}
